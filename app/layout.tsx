@@ -2,8 +2,8 @@ import { Analytics } from "@vercel/analytics/react";
 import { Metadata } from "next";
 import "../styles/globals.css";
 
-let title = "Dream Room Generator";
-let description = "Generate your dream room in seconds.";
+let title = "Texima";
+let description = "A text to image generator";
 let ogimage = "https://roomgpt-demo.vercel.app/og-image.png";
 let sitename = "roomGPT.io";
 
